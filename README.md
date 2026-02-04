@@ -2,7 +2,7 @@
 Source CD
 
 
-#here's the main PJ if needed
+#here's the main Project! if needed
 >>>
 >>>>>>
 >>>>>>
